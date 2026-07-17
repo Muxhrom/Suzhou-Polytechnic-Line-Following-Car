@@ -1,0 +1,20 @@
+# Keil build and IDE-generated files
+*.axf
+*.hex
+*.bin
+*.map
+*.lst
+*.m51
+*.obj
+*.o
+*.d
+Listings/
+Objects/
+DebugConfig/
+
+# Local/editor/system files
+.DS_Store
+Thumbs.db
+*.bak
+*.tmp
+
